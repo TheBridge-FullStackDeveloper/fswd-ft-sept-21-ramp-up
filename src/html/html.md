@@ -14,6 +14,8 @@
 
 ## Requisitos
 
+:gear: Editor de texto
+
 ## Precurso - HTML
 
 ###  Etiquetas de formato de texto, listas y comentarios
