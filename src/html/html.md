@@ -24,7 +24,7 @@
 
 :crossed_swords: - [Realización de una carta](https://github.com/TheBridge-FullStackDeveloper/html-pp-cartas)
 
-:shinto_shrine: - [GIT!](https://github.com/TheBridge-FullStackDeveloper/html-kata-github-template)
+:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet1)
 
 
 ### Enlaces, tablas y etiquetas multimedia
@@ -33,7 +33,9 @@
 
 :crossed_swords: -  [Página web de un gimnasio](https://github.com/TheBridge-FullStackDeveloper/html-pp-gimnasio)
 
-:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet1)
+:shinto_shrine: - [GIT!](https://github.com/TheBridge-FullStackDeveloper/html-kata-github-template)
+
+
 
 <!-- 
 ### Formularios y etiquetas semánticas
