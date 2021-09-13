@@ -24,7 +24,7 @@
 
 :crossed_swords: - [Realización de una carta](https://github.com/TheBridge-FullStackDeveloper/html-pp-cartas)
 
-:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet1)
+
 
 
 ### Enlaces, tablas y etiquetas multimedia
@@ -35,7 +35,11 @@
 
 :shinto_shrine: - [GIT!](https://github.com/TheBridge-FullStackDeveloper/html-kata-github-template)
 
+:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet1)
 
+:shinto_shrine: - [Ejercicio con Emmet 2](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet2)
+
+:shinto_shrine: - [Ejercicio con Emmet 3](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet3)
 
 <!-- 
 ### Formularios y etiquetas semánticas
@@ -44,7 +48,7 @@
 
 :crossed_swords: - [Club de la tercera edad](https://github.com/TheBridge-FullStackDeveloper/html-pp-formularios)
 
-:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet2)
+
 
 
 ### Accesibilidad y atributos
@@ -57,7 +61,7 @@
 
 :crossed_swords: - [Informe de accesibilidad](https://github.com/TheBridge-FullStackDeveloper/html-pp-informe-accesibilidad)
 
-:shinto_shrine: - [Ejercicio con Emmet](https://github.com/TheBridge-FullStackDeveloper/html-kata-emmet3) -->
+ -->
 
 <br>
 
