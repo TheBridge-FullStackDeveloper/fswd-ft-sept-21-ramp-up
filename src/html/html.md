@@ -34,7 +34,10 @@
 
 ### Enlaces, tablas y etiquetas multimedia
 
-:scroll:  - [Enlaces](referencias_tablas_multimedia.md)
+:scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpestas.md)
+
+:scroll: - [Enlaces, tablas y etiquetas multimedia](referencias_tablas_multimedia.md)
+
 
 :crossed_swords: -  [Página web de un gimnasio](https://github.com/TheBridge-FullStackDeveloper/html-pp-gimnasio)
 
@@ -43,11 +46,11 @@
 
 
 
-<!-- 
 ### Formularios y etiquetas semánticas
 
-:scroll: - [Formularios](formularios.md)
+:scroll: - [Formularios y etiquetas semánticas](formularios.md)
 
+<!-- 
 :crossed_swords: - [Club de la tercera edad](https://github.com/TheBridge-FullStackDeveloper/html-pp-formularios)
 
 

@@ -22,6 +22,8 @@
 
 :scroll: - [Selectores y propiedades de texto](selectores_propiedades_texto.md)
 
+:scroll: - [Convención BEM para nombrar clases en CSS](http://getbem.com/naming)
+
 :crossed_swords: - [Estilizando una carta](https://github.com/TheBridge-FullStackDeveloper/css-pp-estilizando-carta)
 
 :shinto_shrine: - [CSS Bento 1-14](https://flukeout.github.io)

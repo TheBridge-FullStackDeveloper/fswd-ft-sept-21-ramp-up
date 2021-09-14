@@ -8,7 +8,7 @@
 <br>
 
 <div style='display: flex; justify-content: center'>
-    <img src='./src/assets/html-css-js.png' style='width: 300px'/>
+    <img src='./src/assets/index/html-css-js.png' style='width: 300px'/>
 </div>
 
 ---
@@ -25,11 +25,11 @@
 
 <br>
 
-### <img src='./src/assets/html5.png' style="width: 25px; vertical-align: sub; margin-right: 10px"/> [`HTML5`](./src/html/html.md)
+### <img src='./src/assets/index/html5.png' style="width: 25px; vertical-align: sub; margin-right: 10px"/> [`HTML5`](./src/html/html.md)
 
 <br>
 
-### <img src='./src/assets/css3.png' style="width: 25px; vertical-align: sub; margin-right: 10px" /> [`CSS3`](./src/css/css.md)
+### <img src='./src/assets/index/css3.png' style="width: 25px; vertical-align: sub; margin-right: 10px" /> [`CSS3`](./src/css/css.md)
 
 <br>
 
