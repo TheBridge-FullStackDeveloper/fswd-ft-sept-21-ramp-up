@@ -34,7 +34,7 @@
 
 ### Enlaces, tablas y etiquetas multimedia
 
-:scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpestas.md)
+:scroll: - [Estructura de carpetas en un proyecto front-end](estructura_de_carpetas.md)
 
 :scroll: - [Enlaces, tablas y etiquetas multimedia](referencias_tablas_multimedia.md)
 
