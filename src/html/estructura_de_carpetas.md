@@ -45,4 +45,4 @@ Otro modelo de estructura de carpetas más sencillo podría ser el siguiente:
 
 
 
-### 🔙 [ÍNDICE](../readme.md)
+### 🔙 [ÍNDICE](../../readme.md)
