@@ -22,28 +22,35 @@
 
 :scroll: - [Selectores y propiedades de texto](selectores_propiedades_texto.md)
 
-:scroll: - [Convención BEM para nombrar clases en CSS](http://getbem.com/naming)
+:scroll: - [Selectores combinados](https://www.freecodecamp.org/news/css-selectors-cheat-sheet/)
 
 :crossed_swords: - [Estilizando una carta](https://github.com/TheBridge-FullStackDeveloper/css-pp-estilizando-carta)
 
 :shinto_shrine: - [CSS Bento 1-14](https://flukeout.github.io)
 
-<!-- 
-###  Selectores avanzados, transiciones y animaciones
-
 :scroll: - [Selectores avanzados, transiciones y animaciones](selectores_avanzados_transiciones_animaciones.md)
 
-:crossed_swords: - [Los cuentos del ácido](https://github.com/TheBridge-FullStackDeveloper/css-pp-los-cuentos-del-acido)
 
 :shinto_shrine: - [CSS Bento 15-32](https://flukeout.github.io)
-
-
 
 ### Modelo de cajas, position y variables CSS
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
 
 :crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
+
+
+<!-- 
+###  Selectores avanzados, transiciones y animaciones
+
+
+:scroll: - [Convención BEM para nombrar clases en CSS](http://getbem.com/naming)
+
+:crossed_swords: - [Los cuentos del ácido](https://github.com/TheBridge-FullStackDeveloper/css-pp-los-cuentos-del-acido)
+
+
+
+
 
 :shinto_shrine: - [Thug Life](https://github.com/TheBridge-FullStackDeveloper/css-kata-thug-life)
 

@@ -50,11 +50,9 @@
 
 :scroll: - [Formularios y etiquetas semánticas](formularios.md)
 
-<!-- 
 :crossed_swords: - [Club de la tercera edad](https://github.com/TheBridge-FullStackDeveloper/html-pp-formularios)
 
-
-
+<!-- 
 
 ### Accesibilidad y atributos
 

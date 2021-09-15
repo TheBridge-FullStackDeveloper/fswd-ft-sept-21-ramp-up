@@ -33,6 +33,12 @@
 
 <br>
 
+<!-- ### <img src='./src/assets/index/git.png' style="width: 25px; vertical-align: sub; margin-right: 10px"/> [`Git y GitHub`](./src/ejercicio/git-y-github.md)
+
+<br> -->
+
+### 🏰 [`Ejercicio: Web Personal`](./src/ejercicio/ejercicio-web-personal.md)
+
 <!-- ### <img src='./src/assets/html5.png' style="width: 25px; vertical-align: sub; margin-right: 10px" /> [`JavaScript Basics`]() -->
 
 
