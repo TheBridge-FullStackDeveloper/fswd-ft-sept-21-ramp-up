@@ -52,20 +52,6 @@
 
 :crossed_swords: - [Club de la tercera edad](https://github.com/TheBridge-FullStackDeveloper/html-pp-formularios)
 
-<!-- 
-
-### Accesibilidad y atributos
-
-:gear: Wave
-
-:gear: Axe
-
-:scroll: - [Atributos](accesibilidad.md)
-
-:crossed_swords: - [Informe de accesibilidad](https://github.com/TheBridge-FullStackDeveloper/html-pp-informe-accesibilidad)
-
- -->
-
 <br>
 
 ### 🔙 [ÍNDICE](../../readme.md)

@@ -39,8 +39,7 @@
 
 :scroll: - [Modelo de cajas, position y variables CSS](box_model_position_var.md)
 
-:crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/
-css-pp-el-puentecito)
+:crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
 
 ### Display
 
@@ -48,37 +47,9 @@ css-pp-el-puentecito)
 
 :crossed_swords: - [Flexbox Froggy](https://flexboxfroggy.com/#es)
 
+:crossed_swords: - [Flexbox Defense](http://www.flexboxdefense.com/)
+
 :shinto_shrine: - [Contactos copleros](https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros)
-
-<!-- 
-###  Selectores avanzados, transiciones y animaciones
-
-
-:scroll: - [Convención BEM para nombrar clases en CSS](http://getbem.com/naming)
-
-:crossed_swords: - [Los cuentos del ácido](https://github.com/TheBridge-FullStackDeveloper/css-pp-los-cuentos-del-acido)
-
-
-
-
-
-:shinto_shrine: - [Thug Life](https://github.com/TheBridge-FullStackDeveloper/css-kata-thug-life)
-
-
-
-### Display
-
-
-
-
-### Mobile first y @media queries
-
-:scroll: - [Mobile first y @media queries](responsive.md)
-
-:crossed_swords: - [Crear una página completamente "responsive" y mobile first](https://github.com/TheBridge-FullStackDeveloper/css-pp-responsive)
-
-:shinto_shrine: - [Entre dos mundos](https://github.com/TheBridge-FullStackDeveloper/css-kata-entre-dos-mundos) -->
-
 
 <br>
 
