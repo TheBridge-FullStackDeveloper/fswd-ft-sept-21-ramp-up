@@ -58,6 +58,6 @@
 
 ### Recursos extra
 
-:magic_wand: - [CSS Battle](https://cssbattle.dev/)
+🛡️ - [CSS Battle](https://cssbattle.dev/)
 
 ### 🔙 [ÍNDICE](../../readme.md)
