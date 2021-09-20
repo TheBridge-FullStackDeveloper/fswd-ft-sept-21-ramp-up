@@ -39,6 +39,11 @@
 
 :crossed_swords: - [El Puentecito](https://github.com/TheBridge-FullStackDeveloper/css-pp-el-puentecito)
 
+:scroll: - [Display](display.md)
+
+:crossed_swords: - [Flexbox Froggy](https://flexboxfroggy.com/#es)
+
+:shinto_shrine: - [Contactos copleros](https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros)
 
 <!-- 
 ###  Selectores avanzados, transiciones y animaciones
@@ -58,11 +63,6 @@
 
 ### Display
 
-:scroll: - [Display](display.md)
-
-:crossed_swords: - [Flexbox Froggy](https://flexboxfroggy.com/#es)
-
-:shinto_shrine: - [Contactos copleros](https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros)
 
 
 
