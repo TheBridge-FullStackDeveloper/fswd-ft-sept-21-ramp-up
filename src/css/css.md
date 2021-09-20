@@ -45,6 +45,9 @@
 
 :scroll: - [Display](display.md)
 
+:scroll: - [FlexBox Generator](https://the-echoplex.net/flexyboxes/)
+
+
 :crossed_swords: - [Flexbox Froggy](https://flexboxfroggy.com/#es)
 
 :crossed_swords: - [Flexbox Defense](http://www.flexboxdefense.com/)
