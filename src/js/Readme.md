@@ -32,8 +32,6 @@
 
 :shinto_shrine: [FizzBuzz+](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz)
 
-:european_castle: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-var-bucles-condicionales)
-
 <br>
 
 ---
