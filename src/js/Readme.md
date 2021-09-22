@@ -36,7 +36,7 @@
 
 ---
 
-<!-- <br>
+ <br>
 
 :scroll: [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 
@@ -46,8 +46,8 @@
 
 :shinto_shrine: [Chauchat](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat)
 
-:european_castle: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-array-funciones)
 
+<!--
 <br>
 
 ---
