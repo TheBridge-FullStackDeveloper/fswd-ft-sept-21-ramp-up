@@ -47,7 +47,6 @@
 :shinto_shrine: [Chauchat](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat)
 
 
-<!--
 <br>
 
 ---
@@ -66,7 +65,6 @@
 
 :shinto_shrine: [Constantino Romero](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero) :lion:
 
-:european_castle: [Bikram](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-bikram-objetos)
 
 <br>
 
@@ -93,6 +91,8 @@
 :crossed_swords: [La varita mágica](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica)
 
 :shinto_shrine: [Bichomon](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon)
+
+<!--
 
 :european_castle: [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz)
 
