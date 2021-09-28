@@ -108,9 +108,7 @@
 
 :scroll: [HTMLFormElements](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement)
 
-<!--
-
 :european_castle: [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz)
 
 <br>
--->
+
