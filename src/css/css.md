@@ -54,10 +54,21 @@
 
 :shinto_shrine: - [Contactos copleros](https://github.com/TheBridge-FullStackDeveloper/css-kata-contactos-copleros)
 
+
+### Mobile first y @media queries
+
+:scroll: - [Mobile first y @media queries](responsive.md)
+
+:crossed_swords: - [Crear una página completamente "responsive" y mobile first](https://github.com/TheBridge-FullStackDeveloper/css-pp-responsive)
+
+:shinto_shrine: - [Entre dos mundos](https://github.com/TheBridge-FullStackDeveloper/css-kata-entre-dos-mundos)
+
 <br>
 
 ### Recursos extra
 
 🛡️ - [CSS Battle](https://cssbattle.dev/)
+
+<br>
 
 ### 🔙 [ÍNDICE](../../readme.md)

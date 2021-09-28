@@ -92,10 +92,6 @@
 
 :shinto_shrine: [Bichomon](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon)
 
-<!--
-
-:european_castle: [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz)
-
 <br>
 
 ---
@@ -112,4 +108,9 @@
 
 :scroll: [HTMLFormElements](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement)
 
-:european_castle: :crossed_swords: - [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz) -->
+<!--
+
+:european_castle: [Quiz](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz)
+
+<br>
+-->
