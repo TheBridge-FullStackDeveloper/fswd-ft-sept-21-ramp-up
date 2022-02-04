@@ -2,15 +2,15 @@
 
 ## Introducción ##
 
-Este será tu primer proyecto donde crearás tu página personal.
+Este será tu primer proyecto donde crearás tu página personal con tecnologías HTML y CSS y diseño web "mobile first"
 
-<div style="width: 100%; background-color: white; text-align: center;">
-    <img src="../assets/html/htmlcssjs.jpg" alt="html, css y js" style="width: 70%;">
-</div>
-
-<br>
+![img](../assets/html/htmlcssjs.jpg)
 
 ## Requisitos ##
+
+- HTML5
+- CSS3
+- Mobile first. Adaptado a móvil, tablet y laptop
 
 El sitio web constará de varias secciones que deberán ser construidas en distintos ficheros `html`. 
 
@@ -50,7 +50,7 @@ El proyecto deberá tener _como mínimo_ las siguientes secciones:
 
     Nueva página, de nombre `contacto.html`, en la que se deberá incluir al menos un formulario.
 
-5. Etiquetas semánticas HTML5
+5. **`Etiquetas semánticas HTML5`**
 
     En este paso habrás de hacer una revisión de los ficheros html creados y agregar todas las etiquetas semánticas posibles.
 
@@ -77,17 +77,23 @@ El proyecto deberá tener _como mínimo_ las siguientes secciones:
 
     Puedes utilizar las propiedades `display o visibility` en combinándolas con las pseudoclases.
 
+
+4. Distribuciones de la página
+
+    Distribuye todos los bloques que haya en tu página con flex.
+
+5. "Mobile first!"
+
+    Has de hacer que tu página pueda verse correctamente en móvil, tablet y escritorio. Utiliza todo lo visto sobre diseño fluido, flexbox, media queries para lograrlo.
+
 ### JavaScript ###
 
 _`Coming soon...`_
 
 ### Sube a GitHub tu proyecto! 🚀 ###
 
-<br>
-
 🧩 [Guia Git y GitHub](git-y-github.md)
 
-<br>
 
 1. Crear un repositorio en Github para la página de tu biografía.
 
@@ -99,12 +105,9 @@ _`Coming soon...`_
     
     1.4 Una vez en tu repositorio (en el navegador) ve a **Settings -> Github Pages** y en **Source** cambia la opción de **none** a **main**
 
-<br>
 
 🧩 [Aquí encontrarás una lista de links a recursos que podrían servirte](./recursos-ejercicio.md)
 
-
-<br>
 
 ### Y lo más importante. Diviértete y tira de imaginación ###
 
