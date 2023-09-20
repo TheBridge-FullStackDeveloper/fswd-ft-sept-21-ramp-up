@@ -48,9 +48,6 @@
 
 📌 [CSS Flow](https://marksheet.io/css-the-flow.html)
 
-Generador de estilos CSS 
-https://neumorphism.io/#e0e0e0
-
 📌 [CSS Position](https://marksheet.io/css-position.html) 
 
 📌 [CSS Image hover](https://www.w3schools.com/howto/howto_css_image_overlay.asp) 
@@ -61,6 +58,7 @@ https://neumorphism.io/#e0e0e0
 📌 [CSS Flexbox templates](https://www.quackit.com/css/flexbox/tutorial/)
 
 📌 [CSS box shadow generator](https://css3gen.com/box-shadow/) 
+
 📌 [Centrar logo + Navbar](https://stackoverflow.com/questions/42095405/logo-and-navigation-bar-inline)
 
 📌 [Personalizar footer](https://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
