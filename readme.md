@@ -2,7 +2,7 @@
 
 <br>
 
-# 🚀 RAMP UP 🚀
+# 🚀 FUNDAMENTALS 🚀
 ---
 
 <br>
